@@ -36,16 +36,14 @@ user_groups = [] # ["Researchers", "Visitors"]
 
 [[education.courses]]
   course = "BA in Physics"
-  thesis = "Thesis name"
   institution = "University of California, Berkeley"
-  description = "This is a description"
   year = 2012
 
 [[education.courses]]
   course = "BSc in Physics"
   institution = "The University of Queensland"
-  institution = "This is a test"
   year = 2013
+  notes = "Test"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
