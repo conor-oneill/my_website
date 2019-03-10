@@ -29,21 +29,16 @@ interests = [] # ["Artificial Intelligence", "Computational Linguistics", "Infor
 user_groups = [] # ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+# [[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
 
 [[education.courses]]
-  course = "BA in Physics"
-  institution = "University of California, Berkeley"
-  year = 2012
-
-[[education.courses]]
-  course = "BSc in Physics"
-  institution = "The University of Queensland"
-  year = 2013
-  notes = "Test"
+  course = "BSc in Physics (Honours)"
+  institution = "University of Queensland"
+  year = 2014
+  notes = "University of California, Berkeley (Exchange)"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
